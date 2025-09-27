@@ -5,6 +5,17 @@
 
 **Autor:** Madson Aragão
 
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white) 
+
+---
+
+
+#### 🟡 [Acesse o notebook no Google Colab]([https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing](https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing))
+
+#### ⚪️ [Acesse o notebook no GitHub](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/blob/main/mvp_pucrio_data_analytics.ipynb)
+
 ## Visão Geral do Projeto
 
 Este projeto tem como objetivo principal validar a viabilidade de classificar dados extraídos de células mamárias em processos de alteração celular (benignas vs. malignas) utilizando técnicas clássicas de análise de dados em Python e preparar o dataset para modelos de Machine Learning. Exploramos a relevância biológica das variáveis, avaliamos o potencial diagnóstico dos modelos e comparamos o desempenho de diferentes algoritmos de classificação.
