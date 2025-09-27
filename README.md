@@ -12,7 +12,7 @@
 ---
 
 
-#### 🟡 [Acesse o notebook no Google Colab]([https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing](https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing))
+#### 🟡 [Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing)
 
 #### ⚪️ [Acesse o notebook no GitHub](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/blob/main/mvp_pucrio_data_analytics.ipynb)
 
