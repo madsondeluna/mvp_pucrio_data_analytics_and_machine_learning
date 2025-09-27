@@ -1,7 +1,7 @@
 
 # MVP II - Machine Learning & Analytics (40530010056_20250_01)
 
-**Data Science & Analytics – PUC-Rio**
+**Curso:** Data Science & Analytics – PUC-Rio**
 
 **Autor:** Madson Aragão
 
