@@ -16,6 +16,11 @@
 
 #### ⚪️ [Acesse o notebook no GitHub](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/blob/main/mvp_pucrio_data_analytics.ipynb)
 
+#### 🔵 [Dataset](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/blob/main/data/data.csv) 
+
+#### 🟢 [Modelos salvos a partir deste estudo](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/tree/main/modelos-pre-treinados)
+
+
 ## Visão Geral do Projeto
 
 Este projeto tem como objetivo principal validar a viabilidade de classificar dados extraídos de células mamárias em processos de alteração celular (benignas vs. malignas) utilizando técnicas clássicas de análise de dados em Python e preparar o dataset para modelos de Machine Learning. Exploramos a relevância biológica das variáveis, avaliamos o potencial diagnóstico dos modelos e comparamos o desempenho de diferentes algoritmos de classificação.
