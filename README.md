@@ -90,7 +90,7 @@ Para replicar a análise e os resultados deste projeto, siga os passos abaixo:
 
 Os modelos finais treinados (.pkl) neste notebook foram salvos e estão disponíveis para download direto no seguinte diretório do repositório GitHub:
 
-[https://github.com/madsondeluna/mvp_pucrio_data_analysis/tree/main/modelos_pre_treinados](https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/tree/main/modelos_pre_treinados)
+https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/tree/main/modelos-pre-treinados 
 
 Você pode carregar esses modelos em outro ambiente Python usando a biblioteca `pickle`.
 
