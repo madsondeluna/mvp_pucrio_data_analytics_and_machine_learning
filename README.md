@@ -94,12 +94,4 @@ https://github.com/madsondeluna/mvp_pucrio_data_analytics_and_machine_learning/t
 
 Você pode carregar esses modelos em outro ambiente Python usando a biblioteca `pickle`.
 
-## Próximos Passos Sugeridos
 
-Com base nesta análise inicial, futuras explorações podem incluir:
-
--   Otimização mais aprofundada de hiperparâmetros para os modelos Random Forest, SVM e XGBoost.
--   Análise de importância das features para entender quais características morfológicas são mais preditivas para cada modelo.
--   Testes com conjuntos de dados externos para validar a generalização dos modelos.
--   Investigação dos casos de Falsos Positivos para identificar padrões e possíveis melhorias no pré-processamento ou modelagem.
--   Exploração de modelos de Deep Learning para análise direta das imagens.
