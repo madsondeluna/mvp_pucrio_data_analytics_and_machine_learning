@@ -66,8 +66,8 @@ Utilizamos **validação cruzada (10 folds)** no conjunto de treino para uma ava
 Avaliamos os modelos com as seguintes métricas:
 
 -   **Acurácia:** Proporção de classificações corretas.
--   **MCC (Matthews Correlation Coefficient):** Medida robusta de correlação entre a predição e o valor real, útil em classes desbalanceadas.
--   **AUC-ROC:** Área sob a curva Receiver Operating Characteristic, indica a capacidade do modelo de discriminar entre as classes. Auxiliando na vififcação da presença de overfitting, onde valores acima de 0.7 tendem a ter menor potencial de desequilíbrio. 
+-   **MCC (Matthews Correlation Coefficient):** Medida robusta de correlação entre a predição e o valor real, útil em classes desbalanceadas. Auxiliando na vififcação da presença de overfitting, onde valores acima de 0.7 tendem a ter menor potencial de desequilíbrio. 
+-   **AUC-ROC:** Área sob a curva Receiver Operating Characteristic, indica a capacidade do modelo de discriminar entre as classes. 
 -   **Matriz de Confusão:** Apresenta True Positives (VP), True Negatives (VN), False Positives (FP) e False Negatives (FN). Em diagnóstico médico, minimizar FN (classificar maligno como benigno) é crucial.
 -   **Precisão (Precision):** Proporção de identificações positivas que foram realmente corretas.
 -   **Recall (Sensibilidade):** Proporção de casos positivos reais que foram corretamente identificados.
