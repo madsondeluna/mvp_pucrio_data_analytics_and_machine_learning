@@ -87,7 +87,7 @@ Avaliamos os modelos com as seguintes métricas:
 
 A análise comparativa revela que todos os modelos apresentaram alto desempenho na classificação de tumores mamários, com acurácia superior a 95% e AUC-ROC acima de 0.99.
 
--   **Modelos de Destaque:** **Random Forest** e **SVM** se destacaram por atingirem a maior acurácia e MCC, e, fundamentalmente, por apresentarem **zero Falsos Negativos (FN = 0)** no conjunto de teste. Isso significa que eles foram capazes de identificar corretamente todos os casos malignos no teste, o que é um resultado crítico em aplicações médicas. O SVM ainda obteve uma AUC-ROC perfeita (1.0000).
+-   **Modelos de Destaque:** **Random Forest** e **SVM** se destacaram por atingirem a maior acurácia e MCC, e, fundamentalmente, por apresentarem **zero Falsos Negativos (FN = 0)** no conjunto de teste. Isso significa que eles foram capazes de identificar corretamente todos os casos malignos no teste, o que é um resultado crítico em aplicações médicas. O SVM ainda obteve uma AUC-ROC perfeita excepcional.
 -   **Desempenho Forte:** **XGBoost** também demonstrou um desempenho muito robusto, com métricas elevadas e um número baixo de Falsos Negativos (FN = 2). É uma excelente alternativa, especialmente em cenários onde a escalabilidade e a eficiência computacional são importantes.
 -   **Modelo Base Sólido:** O **KNN**, apesar de ser o modelo com menor desempenho entre os avaliados (FN = 4), ainda assim obteve resultados muito bons, validando a qualidade das features e a abordagem de pré-processamento.
 
